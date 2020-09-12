@@ -1,0 +1,6 @@
+numpy
+autograd
+matplotlib
+scipy
+ipywidgets
+pandas
